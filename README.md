@@ -12,6 +12,8 @@ We use the TOEICText dataset, which consists of approximately 600 images of TOEI
   <em>Figure 1: Dataset process.</em>
 </p>
 
+To lableling data, we used the OpenLabeling tool to annotate the images.
+
 ## Method
 <p align="center">
   <img width="600" src="https://github.com/QuocAn55/EXTRACTING-INFORMATION-FROM-TOEIC-ENGLISH-CERTIFICATES/blob/main/Images/Method.png?raw=true" alt="Method">
@@ -19,10 +21,4 @@ We use the TOEICText dataset, which consists of approximately 600 images of TOEI
   <em>Figure 2: Method for extracting information from TOEIC certificates.</em>
 </p>
 
-## Result
-<p align="center">
-  <img width="600" src="https://github.com/QuocAn55/EXTRACTING-INFORMATION-FROM-TOEIC-ENGLISH-CERTIFICATES/blob/main/Images/Model.png?raw=true" alt="Model">
-  <br>
-  <em>Figure 3: Evaluation of results.</em>
-</p>
 
